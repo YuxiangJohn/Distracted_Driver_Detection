@@ -8,7 +8,7 @@ When you pass the offending driver, what do you expect to see?
 You certainly aren't surprised when you spot a driver who is texting, seemingly enraptured by social media,
 or in a lively hand-held conversation on their phone.
 
-![model](./graph/1.png)
+![model](./graph/1.PNG)
 
 The 10 classes to predict are:
 
@@ -22,7 +22,10 @@ The 10 classes to predict are:
 - c7: reaching behind
 - c8: hair and makeup
 - c9: talking to passenger
-![model](./graph/2.png)
+
+![model](./graph/2.PNG)
+![model](./graph/3.PNG)
+
 ### Dependency
 
 The main Python packages:
